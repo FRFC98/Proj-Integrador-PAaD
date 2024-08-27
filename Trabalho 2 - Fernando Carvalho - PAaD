@@ -1,0 +1,59 @@
+A. A relação entre a LGPD e os Data Centers no Brasil  
+
+A Lei Geral de Proteção de Dados (LGPD) obriga as organizações a serem mais conscientes com o controle das informações armazenadas. Esse aspecto mostra a necessidade de uma atenção especial com o gerenciamento do Data Center (um lugar físico que guarda e processa informações digitais de uma empresa) pois afinal, esse recurso tem como papel armazenar dados e viabilizá-los de acordo com as necessidades do público-alvo. 
+
+Relação entre Data Center e a Lei Geral de Proteção de Dados (LGPD) » (thriveti.com.br) 
+
+B) b. Formatos de arquivos de dados proprietários e abertos  
+
+**Formatos Abertos** 
+
+ Na área da informática, um formato aberto refere-se a uma especificação técnica de domínio público que serve para descrever e armazenar dados digitais, sem restrições legais que impeçam seu uso. O objetivo principal dos formatos abertos é assegurar o acesso duradouro aos dados, eliminando incertezas jurídicas e limitações impostas por especificações técnicas; em resumo, buscar a interoperabilidade. Ademais, os formatos abertos visam promover a concorrência, evitando que um único fabricante tenha o controle exclusivo de um formato proprietário. 
+
+**Formatos Proprietários**
+
+Os formatos proprietários são, na essência, controlados e estabelecidos por interesses privados.
+
+Ao utilizar um formato proprietário, o usuário enfrenta o risco de perder todas as informações contidas no arquivo caso o software deixe de funcionar ou seja descontinuado, pois não haveria outro sistema capaz de processá-las. Em pouco tempo, todos os dados armazenados em arquivos públicos (de órgãos, instituições, administração, etc.) se tornariam ilegíveis e inviáveis.
+
+Um exemplo disso é o formato MP3, que é considerado proprietário, mas também aberto, já que, embora seja patenteado, suas especificações estão disponíveis publicamente. A divulgação das especificações técnicas é uma forma de promover o formato e transformá-lo em um padrão internacional.
+
+Mas qual é a diferença entre um formato proprietário aberto e um formato opensource? Enquanto o formato opensource pode ser acessado e editado por qualquer aplicativo, o formato proprietário aberto só pode ser modificado com o software específico que o criou.
+
+FONTE: https://biblus.accasoftware.com/ptb/formatos-abertos-e-formatos-proprietarios-como-funciona-e-como-e-constituido-o-arquivo-ifc/
+
+b.1 forneça exemplos de formatos  
+
+Formatos proprietários 
+
+DOC - Microsoft Word Document 
+
+DWG - AutoCad Drawing 
+
+MP3 - MPEG Audio Layer 3 
+
+Formatos abertos 
+
+TXT ASCII Text - texto 
+
+HTML - formato padrão na web 
+
+PNG - formato comum de imagem na web 
+
+ODF - OASIS XML especificação para texto (odt), planilha (ods), desenho (odg) e apresentação (odp). 
+
+SVG - Desenho vetorial 
+
+Ogg - formato de recipiente para Vorbis (audio), Theora (video), Speex (comunicação oral), FLAC (audio) 
+
+b.2 discuta as implicações relacionadas a dados públicos 
+
+A maneira como os dados públicos são formatados — sejam abertos ou de propriedade restrita — pode influenciar consideravelmente sua utilização, acesso e compartilhamento. Dados abertos geralmente favorecem uma maior acessibilidade e estimulam a inovação, enquanto dados proprietários podem criar obstáculos relacionados ao acesso e à interoperabilidade. 
+
+
+
+
+
+
+
+
