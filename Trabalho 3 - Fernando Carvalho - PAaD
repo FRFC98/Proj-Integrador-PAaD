@@ -1,0 +1,92 @@
+ 
+1 – Explique as diferenças entre 3 linguagens de programação
+1. **Python** Python é uma linguagem altamente versátil e de uso geral, notável por sua flexibilidade. É utilizada em uma ampla gama de processos, que vão desde a análise e visualização de dados até o desenvolvimento de sites. De fato, a linguagem se tornou uma opção popular para diversas tarefas. Veja algumas das suas características: 
+
+suporte a múltiplos paradigmas de programação; 
+
+alta eficiência como linguagem de scripts; 
+
+código aberto, permitindo modificações conforme necessário; 
+
+comunidade ativa e vasta biblioteca padrão; 
+
+integração fácil a outras linguagens. 
+
+2. **C#** 
+
+ C#, que é orientada a objetos e faz parte da plataforma .NET da Microsoft, é amplamente utilizada para criar aplicativos tanto para Windows quanto para a web. lgumas das suas características incluem: 
+
+facilitação da criação de softwares modulares; 
+
+integração sólida com tecnologias Microsoft; 
+
+suporte robusto para o desenvolvimento de jogos; 
+
+ 
+
+3. **C++**  
+
+C++ se destaca pela sua eficiência e pelo controle que oferece próximo ao hardware, sendo frequentemente escolhida para o desenvolvimento de sistemas e jogos. A seguir, confira algumas das suas características mais marcantes: 
+
+eficiência em termos de recursos; 
+
+controle preciso sobre a manipulação de memória; 
+
+grande uso em sistemas embarcados; 
+
+base para muitas outras linguagens de programação. 
+
+
+
+a. Tente fazer um código mínimo em cada uma delas b. Tente executar o seu código 
+
+
+Usando Phyton
+print("Hello, World!")
+print("Hello my friends")
+
+resultado: Output:
+
+Hello, World!
+Hello my friends
+
+Usando C++
+#include <iostream>
+using namespace std;
+
+int main() 
+{
+    cout << "Hello, it´s Fernando";
+    return 0;
+}
+Output:
+
+Hello, it´s Fernando
+
+Usando C#
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.RegularExpressions;
+
+namespace HelloWorld
+{
+	public class Program
+	{
+		public static void Main(string[] args)
+		{
+			Console.WriteLine("My name is Fernando");
+		}
+	}
+}
+
+Output:
+
+My name is Fernando
+
+
+
+
+
+
