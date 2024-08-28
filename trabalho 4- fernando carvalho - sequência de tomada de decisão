@@ -1,0 +1,12 @@
+alturapessoa = float("170")
+
+if alturapessoa > 160 :
+    print("A pessoa é alta")
+elif alturapessoa < 160 :
+    print("A pessoa é baixa")
+else:
+    print("pessoa alta")
+
+A pessoa é alta
+
+=== Code Execution Successful ===
