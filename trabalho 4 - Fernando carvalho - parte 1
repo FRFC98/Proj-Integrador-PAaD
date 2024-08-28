@@ -1,0 +1,10 @@
+Alunoibmec = ["FERNANDO", "ROCHA", "FONTOURA", "CARVALHO"]
+for melhoraluno in Alunoibmec:
+    print(melhoraluno)
+
+FERNANDO
+ROCHA
+FONTOURA
+CARVALHO
+
+=== Code Execution Successful ===
