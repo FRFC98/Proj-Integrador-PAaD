@@ -27,3 +27,4 @@ file:///C:/Users/202108055778/Pictures/Print%20trabalho%20aula%205.PNG
 
 
 file:///C:/Users/202108055778/Pictures/Screenshots/trabalho%205%20sequ%C3%AAncia%20de%20vogais.PNG
+![trabalho 5 sequência de vogais](https://github.com/user-attachments/assets/ea392877-3742-4c30-b9c5-cd5d3014c033)
