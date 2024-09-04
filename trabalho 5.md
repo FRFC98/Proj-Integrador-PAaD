@@ -20,8 +20,25 @@ Comprovante da execução
 file:///C:/Users/202108055778/Pictures/Print%20trabalho%20aula%205.PNG
 
 
+2 – implemente um algorítimo que imprima apenas as vogais de uma 
+determinada palavra ou frase
+def extrair_vogais(texto):
+    # Definindo as vogais
+    vogais = "aeiouAEIOU"
+    
+    # Usando uma lista para armazenar as vogais encontradas
+    resultado = [caractere for caractere in texto if caractere in vogais]
+    
+    # Convertendo a lista para uma string e imprimindo
+    print("".join(resultado))
 
+# Exemplo de uso
+texto = "Hoje vou trabalhar"
+extrair_vogais(texto)
 
+oeouaaa
+
+=== Code Execution Successful ===
 
 
 
