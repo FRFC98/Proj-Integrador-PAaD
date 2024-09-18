@@ -1,10 +1,37 @@
-Lista de Exercícios Revisão AP1
+Lista de Exercícios Revisão AP1 (18/09/2024)
 
-Questão 1 
-1º aspecto -> O direito é a ciência que se debruça sobre as normas e leis que regem as pessoas e com isso, todas nossa relações são peremeadas  pela tecnologia e com isso qualquer área do direito que a pessoa trabalha será envolta pela computação, ou seja, será uma importante ferramenta
-2º aspescto -> A programação serve na hora de tomadas de decisão
+Questão 1: 
+1º aspecto -> O direito é a ciência que se debruça sobre as normas e leis que regem as pessoas e com isso, todas nossa relações são peremeadas  pela tecnologia e com isso qualquer área do direito que a pessoa trabalha será envolta pela computação, ou seja, será uma importante ferramenta.
+2º aspescto -> A programação serve na hora de tomadas de decisão.
 3º aspecto-> Automatização do sistema judiciário. Por exemplo: O processo era físico e passou a ser digitalizado com o passar do tempo
 
-Questão 2
-Letra A) Algoritmo -> Sequência finita de ações que são utilizadas para resolver um problema ou executar uma tarefa
-Letra B
+Questão 2:
+Letra A) Algoritmo -> Sequência finita de ações que são utilizadas para resolver um problema ou executar uma tarefa.
+Letra B) Nuvem -> É uma camada de abstração que une computadores e taqmbém uma rede global de servidores e serve para armazenamento e processamento remoto.
+Letra C) Servidor -> É um computador potente em que dentro dele há um programa de computador que presta serviço para outros programas.
+Letra D) Neutralidade da Rede -> É o princípio que rege o fato de não poder haver prioridade no tráfego de dados e com isso, garantir a liberdade na rede.
+Letra E) Arquivo -> Conjunto de dados semanticamente organizados que representa uma informação.
+
+Questão 3:
+Porque você utiliza essa palavra em diferentes níveis de abstração
+
+Questão 4:
+Eles foram inventados para fazer repetir e fazer diversas vezes o que o ser humano já faz
+
+Questâo 5:
+Não pode porque ela é muito complexa para explicar a motivação da tomada de decisão. Sim, há um modelo chamado de Árvore de Decisão pois suas decisões são passíveis de decisão.
+
+Questão 6: 
+Nos arquivos binários os "0 e 1" podem representar cores, números inteiros e objetos e por conta disso, o programa precisa saber reconhecer os bits. Já no arquivo de texto os bits representam apenas caracteres e pode ser utilizado qualquer programa que leia um arquivo de texto.
+
+Questão 7:
+Formato de arquivos abertos - a especificacao é publica, padrao aberto para quem quer usar - html.
+O formato de arquivos proprietário -> A sua especificação é controlado por ognazição/empresa que detem direitos de sua utilização e pode licenciar de acordo com seus próprios interesses particulares, pode controlar que vai usar o formato do arquivo.
+Os dados públicos devem ser preferencialmente disponibilizado em formato aberto para que haja a perenidade dos dados.
+
+Questão 8:
+Aberto -> Protocolo de comunicação que possui especificações públicas
+Proprietário -> Depende uma empresa que detém seu direito de uso e licencia conforme seus interesses
+Contextualizando: 
+A existência de protocolo proprietário viabiliza a inovação e possibilita a remuneração
+A existÊncia de protocolo aberto facilita o desenvolviemnto de novas aplicações
