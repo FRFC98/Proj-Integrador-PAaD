@@ -1,0 +1,54 @@
+Exercício Semana 7 
+
+1) Função que pede o nome do usuário e grava em um arquivo de texto:
+def gravar_nome_em_arquivo():
+    nome = input("Digite seu nome: ")
+    with open("nome_usuario.txt", "w") as arquivo:
+        arquivo.write(nome)
+    print(f"Nome '{nome}' gravado com sucesso no arquivo 'nome_usuario.txt'.")
+
+2) Função que pede o nome de um arquivo e imprime seu conteúdo:
+def imprimir_conteudo_arquivo():
+    nome_arquivo = input("Digite o nome do arquivo que deseja ler: ")
+    try:
+        with open(nome_arquivo, "r") as arquivo:
+            conteudo = arquivo.read()
+            print("Conteúdo do arquivo:")
+            print(conteudo)
+    except FileNotFoundError:
+        print(f"Erro: O arquivo '{nome_arquivo}' não foi encontrado.")
+
+3) Função que lê o conteúdo de um arquivo e escreve em um novo arquivo:
+def copiar_conteudo_para_novo_arquivo():
+    nome_arquivo_origem = input("Digite o nome do arquivo de origem: ")
+    nome_arquivo_destino = input("Digite o nome do arquivo de destino: ")
+    
+    try:
+        with open(nome_arquivo_origem, "r") as arquivo_origem:
+            conteudo = arquivo_origem.read()
+        
+        with open(nome_arquivo_destino, "w") as arquivo_destino:
+            arquivo_destino.write(conteudo)
+        print(f"Conteúdo copiado de '{nome_arquivo_origem}' para '{nome_arquivo_destino}'.")
+    except FileNotFoundError:
+        print(f"Erro: O arquivo '{nome_arquivo_origem}' não foi encontrado.")
+
+4) Função que pede um número, percorre o arquivo e imprime o nome correspondente ao número:
+def buscar_nome_por_numero():
+    nome_arquivo = input("Digite o nome do arquivo que contém os nomes: ")
+    try:
+        with open(nome_arquivo, "r") as arquivo:
+            nomes = arquivo.readlines()
+        
+        numero = int(input(f"Digite o número para buscar o nome (1 a {len(nomes)}): "))
+        
+        if 1 <= numero <= len(nomes):
+            nome_encontrado = nomes[numero - 1].strip()
+            print(f"O nome correspondente ao número {numero} é: {nome_encontrado}")
+        else:
+            print("Número inválido.")
+    
+    except FileNotFoundError:
+        print(f"Erro: O arquivo '{nome_arquivo}' não foi encontrado.")
+    except ValueError:
+        print("Erro: Por favor, insira um número válido.")
